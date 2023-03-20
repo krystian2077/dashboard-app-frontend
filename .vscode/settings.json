@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 18,
+    "window.zoomLevel": 2,
+    "editor.mouseWheelZoom": true,
+    "editor.suggest.insertMode": "replace",
+    "prettier.useTabs": true
+}
