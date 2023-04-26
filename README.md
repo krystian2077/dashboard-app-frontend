@@ -18,7 +18,6 @@
   )
 - [Getting Started
   ](#getting-started)
-- [Mobile support](#mobile-support)
 - [Roadmap](#roadmap)
 - [Contact](#contact)
 
@@ -73,7 +72,6 @@ Install the latest version of npm in your runtime.
    ```sh
    npm start
    ```
-## Mobile Support
 
 ## 🐾 Roadmap
 
