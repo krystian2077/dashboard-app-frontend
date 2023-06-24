@@ -22,6 +22,8 @@
 - [Contact](#contact)
 
 ## 🚀 Live Demo
+   Firstly run backend and secondly run frontend
+
    Backend: https://dashboard-app-backend-l19t.onrender.com </br>
   Frontend: https://dashboard-app-frontend.onrender.com
   
